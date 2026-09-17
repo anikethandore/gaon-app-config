@@ -20,13 +20,13 @@ Firebase Remote Config; this repo + jsDelivr does the same job with:
   Cloudflare-only static host due to reported connectivity issues on some
   Indian ISPs.
 
-## URLs (after this repo is pushed to GitHub as `<your-org>/gaon-app-config`)
+## URLs
 
-Replace `<owner>` below with your actual GitHub username/org once pushed:
+Live at https://github.com/anikethandore/gaon-app-config:
 
 ```
-https://cdn.jsdelivr.net/gh/<owner>/gaon-app-config@main/config.json
-https://cdn.jsdelivr.net/gh/<owner>/gaon-app-config@main/driver-config.json
+https://cdn.jsdelivr.net/gh/anikethandore/gaon-app-config@main/config.json
+https://cdn.jsdelivr.net/gh/anikethandore/gaon-app-config@main/driver-config.json
 ```
 
 (Add `vendor-config.json` / `customer-config.json` the same way if/when those
